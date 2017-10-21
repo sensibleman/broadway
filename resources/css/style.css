@@ -24,3 +24,12 @@ h2 {
 .h2main {
   font-size:32px;
 }
+h2.special {
+  background-image:url("images/the-flatiron-building.png");
+  color: white;
+}
+h3 {
+  font-family:Helvetica;
+  font-size:14px;
+  font-weight:normal;
+}
