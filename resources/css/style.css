@@ -17,3 +17,10 @@ a {
   font-size: 18px;
   color: white;
 }
+h2 {
+  font-size:23px;
+  font-weight: bold;
+}
+.h2main {
+  font-size:32px;
+}
