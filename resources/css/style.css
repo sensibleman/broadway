@@ -33,3 +33,18 @@ h3 {
   font-size:14px;
   font-weight:normal;
 }
+#footer {
+  background-color:dimgray;
+  text-align: left;
+  font-weight: normal;
+
+}
+.small{
+  font-size:11px;
+}
+.white{
+  color: white;
+}
+#footer h2 {
+  font-weight: normal;
+}
